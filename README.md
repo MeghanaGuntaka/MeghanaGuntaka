@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/MeghanaGuntaka)
 <h1 align="center">Hi 👋, I'm Meghana Guntaka</h1>
 <h3 align="center">Recent Data Science Undergraduate with expertise in Python, Java, and ML. Now exploring front-end technologies and full-stack development.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723420800&semt=ais_hybrid>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723420800&semt=ais_hybrid">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
